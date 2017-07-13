@@ -4,9 +4,6 @@
 # don't commit unfinished work
 wip/
 
-# large file extensions
-*.pdf
-
 # Mac OS specific
 # https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
 
