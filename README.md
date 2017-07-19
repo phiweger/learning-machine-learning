@@ -34,7 +34,7 @@ We will mainly code in Python 3.X and make heavy use of
 | Date | Topic | RefID | Speaker |
 | --- | --- | --- | --- |
 | 13.07.2017  | ARA tutorial | 1 | @Emanuel |
-| 20.07.2017  | No free lunch, features | 2 | @{Martin?, Kevin} |
+| 20.07.2017  | No free lunch, features | 2 | @Kevin |
 | tbd  | SVMs, Training best practices part 1 | 3 | @{Markus, Kevin, Flo} |
 | tbd  | GBTs, Training best practices part 2 | 4 | @{Adrian, Kevin, Flo} |
 | tbd  | Unsupervised learning | 5 | @Daniel |
