@@ -36,7 +36,7 @@ We will mainly code in Python 3.X and make heavy use of
 | 13.07.2017  | ARA tutorial | 1 | @Emanuel |
 | 20.07.2017  | Features | 2 | @Kevin |
 | 10.08.2017  | What is a model anyway? + candy | 3 | @Adrian |
-| 17.08.2017  | GBTs, Training best practices part 2 | 4 | @Derwahredaniel |
-| 24.08.2017  | Unsupervised learning | 5 | @Daniel2 |
+| 17.08.2017  | SVMs, Model selection | 4 | @DerEinzigWahreDaniel |
+| 24.08.2017  | Unsupervised learning, low-dimensional Vis | 5 | @Daniel2 |
 | 31.08.2017  | Deep learning | 6 | @Flo |
 
